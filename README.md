@@ -2,6 +2,13 @@
 analysis of research papers
 
 
+### 
+- Name  = Aryan
+- en no = 23112022
+  
+
+
+
 # Research Paper Quality Classifier
 
 This project is a machine learning system that classifies research papers as either **"Publishable"** or **"Non-Publishable"** based on various textual features extracted from the PDF documents. The classifier uses the **Random Forest** algorithm and provides explanations for its predictions using **SHAP** values.

@@ -1,0 +1,136 @@
+pdf_name,Prediction,Reason
+P001.pdf,1,uses easy-to-understand language
+P002.pdf,0,low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P003.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P004.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P005.pdf,1,uses easy-to-understand language
+P006.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P007.pdf,1,uses easy-to-understand language
+P008.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P009.pdf,1,uses easy-to-understand language
+P010.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P011.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P012.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P013.pdf,1,uses easy-to-understand language
+P014.pdf,1,uses easy-to-understand language
+P015.pdf,1,good citation density; uses easy-to-understand language
+P016.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P017.pdf,1,high similarity between Introduction and Conclusion; strong reference section; mentions improvement over previous work; uses easy-to-understand language
+P018.pdf,1,good citation density; clear readability (low Dale-Chall score)
+P019.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P020.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P021.pdf,1,good citation density; uses easy-to-understand language
+P022.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P023.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P024.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P025.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P026.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P027.pdf,1,uses easy-to-understand language
+P028.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P029.pdf,1,uses easy-to-understand language
+P030.pdf,1,good citation density; uses easy-to-understand language
+P031.pdf,1,good citation density; uses easy-to-understand language
+P032.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P033.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P034.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P035.pdf,0,weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P036.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P037.pdf,1,uses easy-to-understand language
+P038.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P039.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P040.pdf,1,uses easy-to-understand language
+P041.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P042.pdf,1,uses easy-to-understand language
+P043.pdf,0,low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P044.pdf,1,high similarity between Introduction and Conclusion; mentions improvement over previous work; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P045.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P046.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P047.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P048.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P049.pdf,1,uses easy-to-understand language
+P050.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P051.pdf,1,high similarity between Introduction and Conclusion; mentions improvement over previous work; uses easy-to-understand language
+P052.pdf,1,high similarity between Introduction and Conclusion; strong reference section; uses easy-to-understand language
+P053.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P054.pdf,1,uses easy-to-understand language
+P055.pdf,1,uses easy-to-understand language
+P056.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P057.pdf,1,high similarity between Introduction and Conclusion; uses easy-to-understand language
+P058.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P059.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P060.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P061.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P062.pdf,1,good citation density; clear readability (low Dale-Chall score)
+P063.pdf,1,uses easy-to-understand language
+P064.pdf,1,high similarity between Introduction and Conclusion; good citation density; mentions improvement over previous work; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P065.pdf,1,uses easy-to-understand language
+P066.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P067.pdf,1,good citation density; uses easy-to-understand language
+P068.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P069.pdf,0,low citation density; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P070.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P071.pdf,1,uses easy-to-understand language
+P072.pdf,1,uses easy-to-understand language
+P073.pdf,0,low similarity between Introduction and Conclusion; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P074.pdf,1,uses easy-to-understand language
+P075.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P076.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P077.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P078.pdf,0,low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P079.pdf,1,uses easy-to-understand language
+P080.pdf,1,high similarity between Introduction and Conclusion; mentions improvement over previous work; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P081.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P082.pdf,1,good citation density; uses easy-to-understand language
+P083.pdf,1,high similarity between Introduction and Conclusion; strong reference section; uses easy-to-understand language
+P084.pdf,1,good citation density; uses easy-to-understand language
+P085.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P086.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P087.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P088.pdf,1,high similarity between Introduction and Conclusion; strong reference section; good citation density; mentions improvement over previous work; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P089.pdf,1,good citation density; uses easy-to-understand language
+P090.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P091.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P092.pdf,1,uses easy-to-understand language
+P093.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P094.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P095.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P096.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P097.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P098.pdf,0,low similarity between Introduction and Conclusion; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P099.pdf,1,uses easy-to-understand language
+P100.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P101.pdf,1,uses easy-to-understand language
+P102.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P103.pdf,1,uses easy-to-understand language
+P104.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P105.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P106.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P107.pdf,0,low citation density; uses complex language (high Flesch-Kincaid grade)
+P108.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P109.pdf,1,uses easy-to-understand language
+P110.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P111.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P112.pdf,1,good citation density; uses easy-to-understand language
+P113.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P114.pdf,1,uses easy-to-understand language
+P115.pdf,1,high similarity between Introduction and Conclusion; good citation density; uses easy-to-understand language
+P116.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P117.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P118.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P119.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P120.pdf,1,uses easy-to-understand language
+P121.pdf,1,good citation density; clear readability (low Dale-Chall score)
+P122.pdf,1,high similarity between Introduction and Conclusion; mentions improvement over previous work; uses easy-to-understand language
+P123.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P124.pdf,0,weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P125.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P126.pdf,1,good citation density; clear readability (low Dale-Chall score)
+P127.pdf,1,uses easy-to-understand language
+P128.pdf,1,uses easy-to-understand language; clear readability (low Dale-Chall score)
+P129.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade)
+P130.pdf,0,low similarity between Introduction and Conclusion; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P131.pdf,1,good citation density; uses easy-to-understand language
+P132.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P133.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)
+P134.pdf,0,low similarity between Introduction and Conclusion; weak reference section; low citation density; does not mention improvement over previous work; uses complex language (high Flesch-Kincaid grade); difficult readability (high Dale-Chall score)
+P135.pdf,1,good citation density; uses easy-to-understand language; clear readability (low Dale-Chall score)

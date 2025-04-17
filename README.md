@@ -82,12 +82,11 @@ To run this project, you need the following:
 Install all the required packages with:
 
 ```bash
-pip install -r requirements.txt
+
 research-paper-classifier/
 │
 ├── Publishable/                # Folder containing PDFs of publishable papers
 ├── Non-Publishable/            # Folder containing PDFs of non-publishable papers
-├── Unlabeled/                  # Folder for PDFs to be classified
 ├── unlabeled_predictions.csv   # Output file with prediction results
 ├── Research_Paper_Classifier.ipynb  # Main Jupyter notebook
 └── README.md                   # This file

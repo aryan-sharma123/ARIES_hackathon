@@ -11,6 +11,16 @@ This project is a machine learning system that classifies research papers as eit
 - but i am not able to show it in CSV file. here is the screenshot what the model will give output
 - ![Screenshot](/Screenshot 2025-04-17 194217.png)
 
+### Models Used
+
+- **SentenceTransformer ('all-MiniLM-L6-v2')**  
+  Used to compute semantic similarity between sections of a research paper, especially between the Introduction and Conclusion. This helps assess the logical consistency and completeness of the paper.
+
+- **RandomForestClassifier**  
+  A machine learning model used to classify papers as *Publishable* or *Non-Publishable* based on extracted features. It uses 100 decision trees (`n_estimators=100`) and a fixed random seed (`random_state=42`) 
+  to ensure consistent results.
+
+
 ### train test split is done keeping in mind the biasness of the given data
 
 
